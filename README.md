@@ -61,13 +61,6 @@ The main objective is to understand employee attrition patterns and identify fac
 - `requirements.txt` - Required Python libraries
 - `README.md` - Project documentation
 
-## How to Run
-
-1. Install the required Python libraries using:
-
-```bash
-pip install -r requirements.txt
-
 Author
 
 Lakshmi
